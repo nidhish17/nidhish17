@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nidhish17
-- 👀 I’m interested in Webdevelopment, Datascience & AI 
+- 👋 Hi, I’m @nidhish
+- 👀 I’m interested in Web & App development, Datascience & Machine Learning, Arduino
 - 🌱 I’m currently learning javascript, Flutter, Datascience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - nidhish1233@gmail.com
