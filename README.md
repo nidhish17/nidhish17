@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nidhish
-- 👀 I’m interested in Web development, Datascience & Machine Learning, Arduino
-- 🌱 I’m currently learning Machine learning & Datascience
+- 👀 I’m interested in Backend development, Arduino, esp32, RPI4 & 5
+- 🌱 I’m currently learning Django and DRF, Math, and Other stuff on Brilliant.org
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - nidhish1233@gmail.com
 
