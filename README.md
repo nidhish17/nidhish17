@@ -32,7 +32,6 @@
 ## 📌 Featured projects
 - GravityBlu: https://github.com/nidhish17/gravityBlu
 - Cardify: https://github.com/nidhish17/YOUR_CARDIFY_REPO
-- AmbientTube: https://github.com/nidhish17/ambientTube
 
 ## 📈 Activity graph
 <p align="center">
