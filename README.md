@@ -30,9 +30,9 @@
 ---
 
 ## 📌 Featured projects
-- GravityBlu: https://github.com/YOUR_USERNAME/gravityBlu
-- Cardify: https://github.com/YOUR_USERNAME/YOUR_CARDIFY_REPO
-- AmbientTube: https://github.com/YOUR_USERNAME/ambientTube
+- GravityBlu: https://github.com/nidhish17/gravityBlu
+- Cardify: https://github.com/nidhish17/YOUR_CARDIFY_REPO
+- AmbientTube: https://github.com/nidhish17/ambientTube
 
 ## 📈 Activity graph
 <p align="center">
