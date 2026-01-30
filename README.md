@@ -31,7 +31,7 @@
 
 ## 📌 Featured projects
 - GravityBlu: https://github.com/nidhish17/gravityBlu
-- Cardify: https://github.com/nidhish17/YOUR_CARDIFY_REPO
+- Cardify: https://github.com/nidhish17/cardify
 
 ## 📈 Activity graph
 <p align="center">
